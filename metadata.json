@@ -1,6 +1,0 @@
-{
-  "name": "Nearby Finder Pro",
-  "description": "Find any location with OpenStreetMap and search nearby locations dynamically on Google Maps with a premium design.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
